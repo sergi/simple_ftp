@@ -2,7 +2,7 @@
   "name": "simple_ftp",
   "version": "1.0.0",
   "description": "A very basic ftp client in RxJS",
-  "main": "build/repl.js",
+  "main": "build/simple_ftp.js",
   "scripts": {
     "build": "./node_modules/.bin/babel lib -d build"
   },
